@@ -1,4 +1,4 @@
-import { Deck, Slide, Text, Heading, OrderedList, ListItem, CodePane, Link, Table, TableRow, TableCell, UnorderedList } from 'spectacle';
+import { Deck, Slide, Text, Heading, OrderedList, ListItem, Link, Table, TableRow, TableCell, UnorderedList } from 'spectacle';
 import './App.css';
 const theme = {
   colors: {
