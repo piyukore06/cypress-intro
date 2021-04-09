@@ -1,0 +1,78 @@
+.img {
+    height: 300px;
+    width: 300px;
+    background-image: url(./IMG_9500.jpeg);
+    background-position: center;
+    background-size: 75%;
+    border-radius: 50%;
+    box-shadow:
+    0 0 0 10px #c4b7d7,
+    0 0 0 15px rgb(70, 30, 82);
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.table-new {
+    margin-top: 30px !important;
+}
+
+.example-image {
+    background-image: url(./example.png);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 75%;
+ 
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.example-image-2 {
+    background-image: url(./2.png);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 75%;
+ 
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.example-image-3 {
+    background-image: url(./3.png);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 75%;
+ 
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.example-image-4 {
+    background-image: url(./imgg.png);
+    height: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 75%;
+ 
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.example-logo {
+    background-image: url(./cypress-logo.png);
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 75%;
+ 
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
